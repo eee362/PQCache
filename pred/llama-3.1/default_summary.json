@@ -1,0 +1,19 @@
+{
+    "_budget_0.1_rec_0.5_sink_32_mode_pq_search_gqa_True_subvec_2_subbit_6_max_iter_0.jsonl": {
+        "trec": 71.0,
+        "hotpotqa": 55.4,
+        "qmsum": 25.51,
+        "narrativeqa": 29.47,
+        "samsum": 43.31,
+        "passage_count": 6.22,
+        "multifieldqa_en": 52.85,
+        "passage_retrieval_en": 99.5,
+        "multi_news": 26.4,
+        "musique": 29.68,
+        "2wikimqa": 43.76,
+        "qasper": 43.74,
+        "triviaqa": 91.64,
+        "gov_report": 34.19,
+        "total": 652.6699999999998
+    }
+}

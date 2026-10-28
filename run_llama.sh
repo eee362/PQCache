@@ -2,8 +2,8 @@
 set -x
 # "original", "pq_search", "sparq_f", "infllm", "h2o"
 SEED="4321"
-COMPRESSOR="pq_search" 
-EXP_NAME=default
+COMPRESSOR="original"
+EXP_NAME=full
 MODE="off" # profile or off 
 DEVICE=0
 COMPRESS=0.1
@@ -19,7 +19,7 @@ GQA="True" # True False
 MEAN_V_TRICK="False"
 MAX_ITER=0 # 0 for dynamic setting
 
-MAX_CPU_IN_USE=48
+MAX_CPU_IN_USE=16
 DROP=0
 RECENT_SIZE=32
 PRESERVE_LAYER=0

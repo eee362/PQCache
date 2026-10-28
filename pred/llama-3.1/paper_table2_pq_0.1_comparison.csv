@@ -1,0 +1,16 @@
+dataset,paper_pq_0.1,observed_pq_0.1,observed_minus_paper
+narrativeqa,30.14,29.47,-0.67
+qasper,44.36,43.74,-0.62
+multifieldqa_en,54.97,52.85,-2.12
+hotpotqa,56.35,55.40,-0.95
+2wikimqa,45.79,43.76,-2.03
+musique,30.15,29.68,-0.47
+gov_report,33.97,34.19,+0.22
+qmsum,25.24,25.51,+0.27
+multi_news,25.95,26.40,+0.45
+trec,72.00,71.00,-1.00
+triviaqa,91.65,91.64,-0.01
+samsum,43.34,43.31,-0.03
+passage_count,6.72,6.22,-0.50
+passage_retrieval_en,100.00,99.50,-0.50
+Average,47.19,46.62,-0.57

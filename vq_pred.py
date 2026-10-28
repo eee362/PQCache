@@ -468,4 +468,5 @@ if __name__ == '__main__':
                     prompt_format, dataset, model_name, model2path, out_path)
         
     print("All evaluation done.")
-    del_objects()
+    if args.compressor == "pq_search":
+        del_objects()
